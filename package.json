@@ -65,7 +65,7 @@
     "unified": "^9.0.0"
   },
   "dependencies": {
-    "url-regex": "^5.0.0",
+    "url-regex-safe": "^4.0.0",
     "vfile": "^4.1.1"
   }
 }
